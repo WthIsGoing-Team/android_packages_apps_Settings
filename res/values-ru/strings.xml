@@ -16,60 +16,60 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="yes" msgid="1999566976857398962">"Да"</string>
-    <string name="no" msgid="5541738710521607130">"Нет"</string>
-    <string name="create" msgid="986997212165228751">"Создать"</string>
-    <string name="allow" msgid="3763244945363657722">"Разрешить"</string>
-    <string name="deny" msgid="7326117222944479942">"Отклонить"</string>
-    <string name="confirmation_turn_on" msgid="2979094011928347665">"Да"</string>
-    <string name="device_info_default" msgid="1406619232867343310">"Неизвестно"</string>
+    <string name="yes" msgid="1999566976857398962">"Дооо"</string>
+    <string name="no" msgid="5541738710521607130">"Нит"</string>
+    <string name="create" msgid="986997212165228751">"Саздат"</string>
+    <string name="allow" msgid="3763244945363657722">"Разришит"</string>
+    <string name="deny" msgid="7326117222944479942">"Аткланит"</string>
+    <string name="confirmation_turn_on" msgid="2979094011928347665">"Дооо"</string>
+    <string name="device_info_default" msgid="1406619232867343310">"Хуй знает"</string>
     <plurals name="show_dev_countdown" formatted="false" msgid="1646187747875476269">
-      <item quantity="one">Вы почти у цели. Остался <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> шаг.</item>
-      <item quantity="few">Вы почти у цели. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> шага.</item>
-      <item quantity="many">Вы почти у цели. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> шагов.</item>
-      <item quantity="other">Вы почти у цели. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> шага.</item>
+      <item quantity="one">Ты дрочишь. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> минут до того как кончить.</item>
+      <item quantity="few">Уже чувствуешь сперму. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> минут.</item>
+      <item quantity="many">Ты почти кончил. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> минут.</item>
+      <item quantity="other">Ты уже щас кончишь. Осталось <xliff:g id="STEP_COUNT_1">%1$d</xliff:g> минут.</item>
     </plurals>
-    <string name="show_dev_on" msgid="2840850085134853754">"Вы стали разработчиком!"</string>
-    <string name="show_dev_already" msgid="7041756429707644630">"Не нужно, вы уже разработчик."</string>
-    <string name="dev_settings_disabled_warning" msgid="6971867026249671244">"Сначала включите параметры для разработчиков."</string>
-    <string name="header_category_wireless_networks" msgid="303445626075235229">"Беспроводные сети"</string>
-    <string name="header_category_system" msgid="1665516346845259058">"Система"</string>
-    <string name="radioInfo_service_in" msgid="9088637745836646271">"В зоне обслуживания"</string>
-    <string name="radioInfo_service_out" msgid="1868347333892403287">"Вне зоны обслуживания"</string>
-    <string name="radioInfo_service_emergency" msgid="6838935881091760942">"Только экстренные вызовы"</string>
-    <string name="radioInfo_service_off" msgid="6184928420860868571">"Сеть отключена"</string>
-    <string name="radioInfo_roaming_in" msgid="8892550453644088692">"Роуминг"</string>
-    <string name="radioInfo_roaming_not" msgid="3137594549464975054">"Роуминг отключен"</string>
-    <string name="radioInfo_data_disconnected" msgid="362604130117666924">"Нет подключения"</string>
-    <string name="radioInfo_data_connecting" msgid="7280819598028917888">"Подключение"</string>
-    <string name="radioInfo_data_connected" msgid="8816467971633020141">"Подключено"</string>
-    <string name="radioInfo_data_suspended" msgid="2001254415431299603">"Приостановлено"</string>
-    <string name="radioInfo_unknown" msgid="2892562356748600367">"Неизвестно"</string>
-    <string name="sdcard_unmount" product="nosdcard" msgid="1816306320988638382">"Отключить USB-накопитель"</string>
-    <string name="sdcard_unmount" product="default" msgid="8078570285871053815">"Извлечь SD-карту"</string>
-    <string name="sdcard_format" product="nosdcard" msgid="3248760426252305366">"Очистить USB-накопитель"</string>
-    <string name="sdcard_format" product="default" msgid="3676635435136326182">"Очистить SD-карту"</string>
-    <string name="preview_pager_content_description" msgid="3762247188224576303">"Просмотр"</string>
-    <string name="preview_page_indicator_content_description" msgid="2790254666634885865">"Предпросмотр, страница <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> из <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
-    <string name="font_size_summary" msgid="1296835853522566260">"Выберите размер шрифта."</string>
-    <string name="font_size_make_smaller_desc" msgid="4978038055549590140">"Уменьшить"</string>
-    <string name="font_size_make_larger_desc" msgid="5583046033381722247">"Увеличить"</string>
-    <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"Включить автоповорот"</string>
-    <string name="smart_rotate_text_headline" msgid="5878008933992951904">"Функция \"Распознавание лица\" улучшает точность автоповорота с помощью фронтальной камеры. Изображения никогда не сохраняются и не отправляются в Google."</string>
-    <string name="font_size_preview_text_headline" msgid="1173103737980511652">"Пример текста"</string>
-    <string name="font_size_preview_text_title" msgid="6363561029914452382">"Удивительный волшебник из страны Оз"</string>
-    <string name="font_size_preview_text_subtitle" msgid="5806349524325544614">"Глава 11. Изумрудный Город страны Оз"</string>
-    <string name="font_size_preview_text_body" msgid="3323732544011097199">"Поначалу сияние Изумрудного города ослепило Элли и ее друзей, хотя их глаза были защищены очками с зелеными стеклами. Вдоль улиц тянулись великолепные дома из зеленого мрамора, усыпанные мерцающими изумрудами. Дорога была вымощена зелеными мраморными плитами, между которыми тоже проглядывали изумруды. Их плотные ряды ярко сверкали на солнце. Всё вокруг было зеленым, даже небо над городом и солнечные лучи, которые отражались от зеленых оконных стекол.\n\nПо улицам прогуливались множество мужчин, женщин и детей с зеленоватой кожей и в зеленой одежде. Они с интересом разглядывали необычную компанию Элли, но никто не заговаривал с девочкой и ее спутниками. Завидев Льва, дети убегали и прятались за юбками матерей. На улицах стояли лавки, и Элли видела, что всё в них было зеленым: сладости, попкорн, а также всевозможные наряды, шляпы и башмаки. Один торговец продавал зеленый лимонад, и дети платили за него зелеными монетами.\n\nНигде не было видно лошадей или других животных. Мужчины перевозили вещи в маленьких зеленых тележках, толкая их перед собой. С виду все были счастливы."</string>
-    <string name="font_size_save" msgid="206892409190870726">"ОК"</string>
-    <string name="sdcard_setting" product="nosdcard" msgid="6071836464978826249">"USB-накопитель"</string>
-    <string name="sdcard_setting" product="default" msgid="3713462184783824923">"SD-карта"</string>
-    <string name="bluetooth" msgid="8898478620943459654">"Bluetooth"</string>
-    <string name="bluetooth_is_discoverable" msgid="4798961627677790935">"Виден другим Bluetooth-устройствам: <xliff:g id="DISCOVERABLE_TIME_PERIOD">%1$s</xliff:g>"</string>
-    <string name="bluetooth_is_discoverable_always" msgid="8122823110652921674">"Отображать для ближайших устройств Bluetooth"</string>
+    <string name="show_dev_on" msgid="2840850085134853754">"Ты спустил сперму на лицо гей директору гугл"</string>
+    <string name="show_dev_already" msgid="7041756429707644630">"Не нужно, вы уже унизили гей директора гугл."</string>
+    <string name="dev_settings_disabled_warning" msgid="6971867026249671244">"Сначала включите параметры для пидоров."</string>
+    <string name="header_category_wireless_networks" msgid="303445626075235229">"Беспроводные сети для рыбалки бляд"</string>
+    <string name="header_category_system" msgid="1665516346845259058">"Система А.У.Е"</string>
+    <string name="radioInfo_service_in" msgid="9088637745836646271">"В зоне обслуживания (В ЗОНЕ)"</string>
+    <string name="radioInfo_service_out" msgid="1868347333892403287">"Вне зоны обслуживания вашего говна"</string>
+    <string name="radioInfo_service_emergency" msgid="6838935881091760942">"Только экстренные вызовы проституки на дом"</string>
+    <string name="radioInfo_service_off" msgid="6184928420860868571">"Сеть отключена НАХУЙ!"</string>
+    <string name="radioInfo_roaming_in" msgid="8892550453644088692">"Роуминг Хуёуминг"</string>
+    <string name="radioInfo_roaming_not" msgid="3137594549464975054">"Роуминг Хуёминг отключен"</string>
+    <string name="radioInfo_data_disconnected" msgid="362604130117666924">"Нет подключения к сети пидорасов"</string>
+    <string name="radioInfo_data_connecting" msgid="7280819598028917888">"Подключение к сети пидоров"</string>
+    <string name="radioInfo_data_connected" msgid="8816467971633020141">"Подключено к сети пидоров"</string>
+    <string name="radioInfo_data_suspended" msgid="2001254415431299603">"Приостановлено до лишения левственности"</string>
+    <string name="radioInfo_unknown" msgid="2892562356748600367">"Хуй знает"</string>
+    <string name="sdcard_unmount" product="nosdcard" msgid="1816306320988638382">"Отключить USB-нахуитель"</string>
+    <string name="sdcard_unmount" product="default" msgid="8078570285871053815">"Извлечь SD-хуйярту"</string>
+    <string name="sdcard_format" product="nosdcard" msgid="3248760426252305366">"Очистить USB-нахуитель"</string>
+    <string name="sdcard_format" product="default" msgid="3676635435136326182">"Очистить SD-хуярту"</string>
+    <string name="preview_pager_content_description" msgid="3762247188224576303">"Просмотр порно"</string>
+    <string name="preview_page_indicator_content_description" msgid="2790254666634885865">"Предпросмотр, что бы на говно не попал, страница <xliff:g id="CURRENT_PAGE">%1$d</xliff:g> из <xliff:g id="NUM_PAGES">%2$d</xliff:g>"</string>
+    <string name="font_size_summary" msgid="1296835853522566260">"Выберите размер шрифта хуй."</string>
+    <string name="font_size_make_smaller_desc" msgid="4978038055549590140">"Уменьшить (куда уменьшать уже?)"</string>
+    <string name="font_size_make_larger_desc" msgid="5583046033381722247">"Увеличить (Но твой все равно будет маленьким)"</string>
+    <string name="auto_rotate_settings_primary_switch_title" msgid="3440951924928594520">"Включить автоповорот нахуй"</string>
+    <string name="smart_rotate_text_headline" msgid="5878008933992951904">"Функция \"Распознавание лица\" улучшает точность автоповорота с помощью фронтальной камеры. Изображения никогда не сохраняются и не отправляются в Google. (Жди докс, жди сват, жди омон, жди камаз с неграми которые выебут тебя)"</string>
+    <string name="font_size_preview_text_headline" msgid="1173103737980511652">"Пример пениса мистер пениса"</string>
+    <string name="font_size_preview_text_title" msgid="6363561029914452382">"Удивительный волшебник из страны ПорнХаб"</string>
+    <string name="font_size_preview_text_subtitle" msgid="5806349524325544614">"Глава 11. Мпермовый Город страны порнхаб"</string>
+    <string name="font_size_preview_text_body" msgid="3323732544011097199">"Поначалу конча Спермового города ослепило Сундара Пичаи и его анальных рабов, хотя их глаза были защищены очками с Бо Синна стеклами. Вдоль улиц тянулись великолепные дома из спермы, я заебался, дальше ориг, усыпанные мерцающими изумрудами. Дорога была вымощена зелеными мраморными плитами, между которыми тоже проглядывали изумруды. Их плотные ряды ярко сверкали на солнце. Всё вокруг было зеленым, даже небо над городом и солнечные лучи, которые отражались от зеленых оконных стекол.\n\nПо улицам прогуливались множество мужчин, женщин и детей с зеленоватой кожей и в зеленой одежде. Они с интересом разглядывали необычную компанию Элли, но никто не заговаривал с девочкой и ее спутниками. Завидев Льва, дети убегали и прятались за юбками матерей. На улицах стояли лавки, и Элли видела, что всё в них было зеленым: сладости, попкорн, а также всевозможные наряды, шляпы и башмаки. Один торговец продавал зеленый лимонад, и дети платили за него зелеными монетами.\n\nНигде не было видно лошадей или других животных. Мужчины перевозили вещи в маленьких зеленых тележках, толкая их перед собой. С виду все были счастливы."</string>
+    <string name="font_size_save" msgid="206892409190870726">"ОКЭЙ"</string>
+    <string name="sdcard_setting" product="nosdcard" msgid="6071836464978826249">"USB-нахуиитель"</string>
+    <string name="sdcard_setting" product="default" msgid="3713462184783824923">"SD-хуярта"</string>
+    <string name="bluetooth" msgid="8898478620943459654">"Синий зуб (Блютутх)"</string>
+    <string name="bluetooth_is_discoverable" msgid="4798961627677790935">"Виден другим Блютутх-устройствам: <xliff:g id="DISCOVERABLE_TIME_PERIOD">%1$s</xliff:g>"</string>
+    <string name="bluetooth_is_discoverable_always" msgid="8122823110652921674">"Отображать для ближайших устройств Блютутх"</string>
     <string name="bluetooth_not_visible_to_other_devices" msgid="6181960579190879601">"Не виден другим устройствам"</string>
     <string name="bluetooth_only_visible_to_paired_devices" msgid="3574936359739213455">"Доступно только для подключенных устройств"</string>
-    <string name="bluetooth_visibility_timeout" msgid="7611781967900196353">"Тайм-аут видимости"</string>
-    <string name="bluetooth_lock_voice_dialing" msgid="7405038248936935186">"Заблокировать голосовой набор"</string>
+    <string name="bluetooth_visibility_timeout" msgid="7611781967900196353">"Тайм-аут кончи видимости"</string>
+    <string name="bluetooth_lock_voice_dialing" msgid="7405038248936935186">"Заблокировать голосовой набор (Команду голос не давали)"</string>
     <string name="bluetooth_lock_voice_dialing_summary" msgid="4959591522483403402">"Предотвратить использование телефона Bluetooth, когда экран заблокирован"</string>
     <string name="bluetooth_devices" msgid="1063177983261608277">"Устройства Bluetooth"</string>
     <string name="bluetooth_device_name" msgid="1294669733490268384">"Название устройства"</string>
