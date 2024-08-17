@@ -95,8 +95,8 @@
     <string name="bluetooth_pair_other_ear_dialog_right_ear_positive_button" msgid="533612082529204078">"Подключить прав. ухо"</string>
     <string name="bluetooth_pair_other_ear_dialog_left_ear_positive_button" msgid="6500192653171220257">"Подключить левое ухо"</string>
     <string name="bluetooth_screen_related" msgid="7976543255501825536">"Похожие"</string>
-    <string name="bluetooth_is_visible_message" msgid="3811631869768157387">"Устройства поблизости могут обнаружить <xliff:g id="DEVICE_NAME">%1$s</xliff:g>, пока открыты настройки Bluetooth."</string>
-    <string name="bluetooth_footer_mac_message" product="default" msgid="4782330594323261630">"Bluetooth-адрес телефона: <xliff:g id="BLUETOOTH_MAC_ADDRESS">%1$s</xliff:g>."</string>
+    <string name="bluetooth_is_visible_message" msgid="3811631869768157387">"Устройства поблизости могут обнаружитьтебя еблан <xliff:g id="DEVICE_NAME">%1$s</xliff:g>, пока открыты настройки Bluetooth."</string>
+    <string name="bluetooth_footer_mac_message" product="default" msgid="4782330594323261630">"Блютутх-адрес телефона: <xliff:g id="BLUETOOTH_MAC_ADDRESS">%1$s</xliff:g>."</string>
     <string name="bluetooth_footer_mac_message" product="tablet" msgid="1257226691967432025">"Адрес Bluetooth для планшета: <xliff:g id="BLUETOOTH_MAC_ADDRESS">%1$s</xliff:g>"</string>
     <string name="bluetooth_footer_mac_message" product="device" msgid="2863536947810007600">"Адрес Bluetooth этого устройства: <xliff:g id="BLUETOOTH_MAC_ADDRESS">%1$s</xliff:g>"</string>
     <string name="bluetooth_is_disconnect_question" msgid="777406775955421784">"Отключить <xliff:g id="DEVICE_NAME">%1$s</xliff:g>?"</string>
