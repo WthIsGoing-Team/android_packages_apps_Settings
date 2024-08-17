@@ -66,29 +66,29 @@
     <string name="bluetooth" msgid="8898478620943459654">"Синий зуб (Блютутх)"</string>
     <string name="bluetooth_is_discoverable" msgid="4798961627677790935">"Виден другим Блютутх-устройствам: <xliff:g id="DISCOVERABLE_TIME_PERIOD">%1$s</xliff:g>"</string>
     <string name="bluetooth_is_discoverable_always" msgid="8122823110652921674">"Отображать для ближайших устройств Блютутх"</string>
-    <string name="bluetooth_not_visible_to_other_devices" msgid="6181960579190879601">"Не виден другим устройствам"</string>
-    <string name="bluetooth_only_visible_to_paired_devices" msgid="3574936359739213455">"Доступно только для подключенных устройств"</string>
+    <string name="bluetooth_not_visible_to_other_devices" msgid="6181960579190879601">"Не виден другим устройствам, они слепые"</string>
+    <string name="bluetooth_only_visible_to_paired_devices" msgid="3574936359739213455">"Доступно только для подключенных устройств блеать"</string>
     <string name="bluetooth_visibility_timeout" msgid="7611781967900196353">"Тайм-аут кончи видимости"</string>
     <string name="bluetooth_lock_voice_dialing" msgid="7405038248936935186">"Заблокировать голосовой набор (Команду голос не давали)"</string>
     <string name="bluetooth_lock_voice_dialing_summary" msgid="4959591522483403402">"Предотвратить использование телефона Bluetooth, когда экран заблокирован"</string>
-    <string name="bluetooth_devices" msgid="1063177983261608277">"Устройства Bluetooth"</string>
+    <string name="bluetooth_devices" msgid="1063177983261608277">"Устройства Блютутх"</string>
     <string name="bluetooth_device_name" msgid="1294669733490268384">"Название устройства"</string>
-    <string name="bluetooth_device_details" msgid="630702184344217832">"Настройки устройства"</string>
-    <string name="bluetooth_profile_details" msgid="1269419918127093325">"Настройки профиля"</string>
+    <string name="bluetooth_device_details" msgid="630702184344217832">"Настройки хуйстройства"</string>
+    <string name="bluetooth_profile_details" msgid="1269419918127093325">"Настройки профиля (ебала)"</string>
     <string name="bluetooth_name_not_set" msgid="4654357917928126208">"Без настройки имени, использовать имя аккаунта"</string>
-    <string name="bluetooth_scan_for_devices" msgid="8143654526358934069">"Поиск устройств"</string>
-    <string name="bluetooth_rename_device" msgid="4219655243836021443">"Переименовать устройство"</string>
+    <string name="bluetooth_scan_for_devices" msgid="8143654526358934069">"Поиск хуйсройств"</string>
+    <string name="bluetooth_rename_device" msgid="4219655243836021443">"Переименовать хуйстройство"</string>
     <string name="bluetooth_rename_button" msgid="9162500408570289545">"Переименовать"</string>
-    <string name="bluetooth_disconnect_title" msgid="4581951246357823044">"Отключить устройство?"</string>
-    <string name="bluetooth_disconnect_all_profiles" product="default" msgid="1934297101665686854">"Будет прервано соединение с устройством \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
-    <string name="bluetooth_disconnect_all_profiles" product="tablet" msgid="336622948210457991">"Будет прервано соединение с устройством \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
-    <string name="bluetooth_disconnect_all_profiles" product="device" msgid="6944790936166852428">"Будет прервано соединение с устройством \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
-    <string name="bluetooth_disconnect_dialog_ok" msgid="4173740094381092185">"Отключить"</string>
-    <string name="bluetooth_empty_list_user_restricted" msgid="909734990821975673">"У вас нет разрешения на смену настроек Bluetooth."</string>
-    <string name="bluetooth_pairing_pref_title" msgid="3497193027590444598">"Добавить устройство"</string>
-    <string name="keywords_add_bt_device" msgid="4533191164203174011">"Bluetooth"</string>
-    <string name="bluetooth_pair_right_ear_button" msgid="3979894494803078852">"Подключить прав. ухо"</string>
-    <string name="bluetooth_pair_left_ear_button" msgid="1019938875726073791">"Подключить левое ухо"</string>
+    <string name="bluetooth_disconnect_title" msgid="4581951246357823044">"Отключить хуйстройство?"</string>
+    <string name="bluetooth_disconnect_all_profiles" product="default" msgid="1934297101665686854">"Будет прервано соединение с хуйстройством \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
+    <string name="bluetooth_disconnect_all_profiles" product="tablet" msgid="336622948210457991">"Будет прервано соединение с хуйстройством \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
+    <string name="bluetooth_disconnect_all_profiles" product="device" msgid="6944790936166852428">"Будет прервано соединение с хуйстройством \"<xliff:g id="DEVICE_NAME">%1$s</xliff:g>\"."</string>
+    <string name="bluetooth_disconnect_dialog_ok" msgid="4173740094381092185">"Отключить нахуй"</string>
+    <string name="bluetooth_empty_list_user_restricted" msgid="909734990821975673">"У вас нет разрешения на смену настроек блютутх, вы феменистка, у вас нет прав."</string>
+    <string name="bluetooth_pairing_pref_title" msgid="3497193027590444598">"Добавить хуйстройство"</string>
+    <string name="keywords_add_bt_device" msgid="4533191164203174011">"Блютутх"</string>
+    <string name="bluetooth_pair_right_ear_button" msgid="3979894494803078852">"Подключить прав. ухо хуй"</string>
+    <string name="bluetooth_pair_left_ear_button" msgid="1019938875726073791">"Подключить левое ухо хуй"</string>
     <string name="bluetooth_pair_other_ear_dialog_title" msgid="3814943511999984012">"Подключить другое ухо"</string>
     <string name="bluetooth_pair_other_ear_dialog_left_ear_message" msgid="7936892941892347102">"Левый слуховой аппарат подключен.\n\nУбедитесь, что правый аппарат работает и готов к подключению."</string>
     <string name="bluetooth_pair_other_ear_dialog_right_ear_message" msgid="8242208936062915941">"Правый слуховой аппарат подключен.\n\nУбедитесь, что левый аппарат работает и готов к подключению."</string>
